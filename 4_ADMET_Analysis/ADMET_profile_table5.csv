@@ -1,0 +1,11 @@
+Compound,GI_Absorption_HIA,BBB_Permeability,Hepatotoxicity,Ames_Mutagenicity,Skin_Sensitization,Drug_Likeness_QED
+Hesperidin,0.317,2.00E-05,0.631,0.944,0.983,0.185
+Corylifol A,0.02,1.40E-05,0.715,0.264,0.829,0.498
+Catechin gallate,0.001,0.007978,0.26,0.595,1,0.235
+Baicalin,0.008,0.000993,0.429,0.5,0.966,0.299
+Corylin,0.008,0.158,0.538,0.722,0.197,0.724
+Eriocitrin,0.912,0.000238,0.72,0.916,0.997,0.724
+Wighteone,0.033,0.022704,0.542,0.617,0.885,0.173
+Lupiwighteone,0.01,0.006314,0.543,0.621,0.837,0.626
+Gallocatechin gallate,0.003,0.001837,0.219,0.674,1,0.212
+Puerarin,0.758,0.03898,0.669,0.786,0.963,0.355

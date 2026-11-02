@@ -1,0 +1,8 @@
+Energy_Term,Mean,SD,Unit
+ΔGbind,-43.63,3.99,kcal/mol
+ΔGGAS,-108.0,14.83,kcal/mol
+ΔGSOLV,64.37,12.14,kcal/mol
+ΔEvdW,-49.48,3.53,kcal/mol
+ΔEele,-58.52,14.52,kcal/mol
+ΔEGB,70.21,12.24,kcal/mol
+ΔESURF,-5.84,0.2,kcal/mol

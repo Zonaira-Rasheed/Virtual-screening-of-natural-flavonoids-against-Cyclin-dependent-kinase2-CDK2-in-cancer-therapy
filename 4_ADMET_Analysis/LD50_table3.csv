@@ -1,0 +1,11 @@
+Compound,Predicted_Oral_LD50_mg_kg,Toxicity_Class,Prediction_Accuracy_percent
+Hesperidin,12000,6,72.9
+Corylifol A,2500,5,68.07
+Catechin gallate,1000,4,100.0
+Baicalin,5000,5,69.26
+Corylin,3850,5,69.26
+Eriocitrin,12000,6,72.9
+Wighteone,2500,5,69.26
+Lupiwighteone,2500,5,68.07
+Gallocatechin gallate,1000,4,100.0
+Puerarin,832,4,68.07

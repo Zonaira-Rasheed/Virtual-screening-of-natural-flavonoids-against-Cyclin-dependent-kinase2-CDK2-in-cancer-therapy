@@ -1,0 +1,13 @@
+Complex,Simulation_ns,Metric,Reported_Value,Notes
+CDK2–Hesperidin,50,Protein RMSD,0.25–0.30 nm,Text description; approximate range
+CDK2–Hesperidin,50,Protein RMSF,0.045–0.597 nm,Peak at residue 298
+CDK2–Hesperidin,50,Radius of gyration (Rg),1.99–2.08 nm,Approximate range
+CDK2–Hesperidin,50,SASA,145.44–167.74 nm²,Approximate range
+CDK2–Hesperidin,50,MM/GBSA ΔGbind,-40.89 kcal/mol,Reported in discussion; detailed table not shown in extracted PDF text
+CDK2–Corylifol A,20,Protein backbone RMSD,1.5–2.3 Å,Approximate range; manuscript text
+CDK2–Corylifol A,20,Ligand RMSD,2.5–3.1 Å,After correction for periodic box-wrapping artifacts; manuscript text
+CDK2–Corylifol A,20,Binding-site RMSF,<1.5 Å,Approximate; terminal residue 298 more flexible
+CDK2–Corylifol A,20,Radius of gyration (Rg),1.98–2.03 nm,Approximate range
+CDK2–Corylifol A,20,SASA,150–163 nm²,Approximate range
+CDK2–Corylifol A,20,Hydrogen bonds,Mean 1.5; maximum 4,Trajectory summary
+CDK2–Corylifol A,20,MM/GBSA ΔGbind,-43.63 ± 3.99 kcal/mol,101 snapshots from 15–20 ns; gmx_MMPBSA v1.7.0; text states igb=2
